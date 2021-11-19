@@ -1,4 +1,4 @@
-import {Role, Selector} from 'testcafe';
+import {Role, Selector} from 'testcafe'; 
 
 fixture `Google Title`
     .page `https://sumanas.medizura.com/login`;
